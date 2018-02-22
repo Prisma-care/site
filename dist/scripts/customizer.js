@@ -61,7 +61,7 @@
 /******/ 	
 /******/ 	
 /******/ 	var hotApplyOnUpdate = true;
-/******/ 	var hotCurrentHash = "a1273629980b7ab9800c"; // eslint-disable-line no-unused-vars
+/******/ 	var hotCurrentHash = "e5bf2707d6885fc65cae"; // eslint-disable-line no-unused-vars
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule; // eslint-disable-line no-unused-vars
@@ -727,9 +727,9 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/*!***********************************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/html-entities/lib/html5-entities.js ***!
-  \***********************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/html-entities/lib/html5-entities.js ***!
+  \**************************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports) {
@@ -1272,9 +1272,9 @@ module.exports = function(module) {
 
 /***/ }),
 /* 5 */
-/*!************************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/querystring-es3/index.js ***!
-  \************************************************************************************************************/
+/*!***************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/querystring-es3/index.js ***!
+  \***************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1288,9 +1288,9 @@ exports.encode = exports.stringify = __webpack_require__(/*! ./encode */ 7);
 
 /***/ }),
 /* 6 */
-/*!*************************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/querystring-es3/decode.js ***!
-  \*************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/querystring-es3/decode.js ***!
+  \****************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1384,9 +1384,9 @@ var isArray = Array.isArray || function (xs) {
 
 /***/ }),
 /* 7 */
-/*!*************************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/querystring-es3/encode.js ***!
-  \*************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/querystring-es3/encode.js ***!
+  \****************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1481,9 +1481,9 @@ var objectKeys = Object.keys || function (obj) {
 
 /***/ }),
 /* 8 */
-/*!*******************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/strip-ansi/index.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/strip-ansi/index.js ***!
+  \**********************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1499,9 +1499,9 @@ module.exports = function (str) {
 
 /***/ }),
 /* 9 */
-/*!*******************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/ansi-regex/index.js ***!
-  \*******************************************************************************************************/
+/*!**********************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/ansi-regex/index.js ***!
+  \**********************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1605,9 +1605,9 @@ function problemType (type) {
 
 /***/ }),
 /* 11 */
-/*!******************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/ansi-html/index.js ***!
-  \******************************************************************************************************/
+/*!*********************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/ansi-html/index.js ***!
+  \*********************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1793,9 +1793,9 @@ ansiHTML.reset()
 
 /***/ }),
 /* 12 */
-/*!**********************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/html-entities/index.js ***!
-  \**********************************************************************************************************/
+/*!*************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/html-entities/index.js ***!
+  \*************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
@@ -1810,9 +1810,9 @@ module.exports = {
 
 /***/ }),
 /* 13 */
-/*!*********************************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/html-entities/lib/xml-entities.js ***!
-  \*********************************************************************************************************************/
+/*!************************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/html-entities/lib/xml-entities.js ***!
+  \************************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports) {
@@ -1976,9 +1976,9 @@ module.exports = XmlEntities;
 
 /***/ }),
 /* 14 */
-/*!***********************************************************************************************************************!*\
-  !*** /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/node_modules/html-entities/lib/html4-entities.js ***!
-  \***********************************************************************************************************************/
+/*!**************************************************************************************************************************************!*\
+  !*** /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/node_modules/html-entities/lib/html4-entities.js ***!
+  \**************************************************************************************************************************************/
 /*! dynamic exports provided */
 /*! all exports used */
 /***/ (function(module, exports) {
@@ -2320,7 +2320,7 @@ module.exports = function(hash, moduleMap, options) {
 /*! all exports used */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Volumes/Storage/Sites/prisma-website/wp-content/themes/prisma/resources/assets/build/util/../helpers/hmr-client.js */2);
+__webpack_require__(/*! /Users/frederikvincx/Code/prisma-site/prisma-website/wp-content/themes/prisma/resources/assets/build/util/../helpers/hmr-client.js */2);
 module.exports = __webpack_require__(/*! ./scripts/customizer.js */39);
 
 
