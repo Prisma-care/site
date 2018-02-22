@@ -1,0 +1,49 @@
+$white:                   #fff;
+$black:                   #545b6d;
+$red:                     #f35a4b;
+$orange:                  #ff9f00;
+$yellow:                  #fad820;
+$green:                   #5cb85c;
+$blue:                    #637dc8;
+$teal:                    #d95db4;
+$pink:                    #d95db4;
+$purple:                  #d95db4;
+
+$gray-base:               #545b6e;
+$gray-darker:             #333842;
+$gray-dark:               #545b6d;
+$gray:                    #abaeb4;
+$gray-light:              #ededed;
+$gray-lighter:            #f3f3f3;
+
+$brand-primary:           #637dc8;
+$brand-success:           #d95db4;
+$brand-info:              #637dc8;
+$brand-warning:           #ff9f00;
+$brand-danger:            #f35a4b;
+$brand-inverse:           $gray-dark;
+
+$enable-flex:             true;
+
+//== Typography
+
+$font-family-serif:       serif;
+$font-family-sans-serif:  Varela, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-family-base:        $font-family-sans-serif;
+$headings-font-family:    'Varela Round', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+$font-size-base:          1.15rem;
+$headings-font-weight:    normal;
+
+$line-height-base:        1.45;
+
+$text-muted:              $gray-light;
+
+$border-radius:           0.3em;
+
+$body-bg:                 white;
+$body-color:              $gray-base;
+
+$jumbotron-bg:            white;
+
+$grid-gutter-width:       50px;

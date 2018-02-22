@@ -1,0 +1,14 @@
+.newslist li {
+  margin: 1em 0;
+  padding: 1em 0 2em;
+  border-bottom: 1px solid $gray-200;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+time {
+  display: block;
+  margin-bottom: 1.5em;
+}
