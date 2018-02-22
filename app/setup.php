@@ -66,6 +66,12 @@ add_action('after_setup_theme', function () {
      * @see resources/assets/styles/layouts/_tinymce.scss
      */
     add_editor_style(asset_path('styles/main.css'));
+
+    /**
+     * Add excerpt support
+     * @link https://codex.wordpress.org/Function_Reference/add_post_type_support
+     */
+    add_post_type_support( 'page', 'excerpt' );
 }, 20);
 
 /**
