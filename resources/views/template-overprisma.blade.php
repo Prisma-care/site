@@ -7,8 +7,6 @@
   @section('content')
 
   <div id="team">
-    <h1>Over Prisma</h1>
-
     <p class="lead">Een team van vrijwilligers met een hart voor ouderenzorg bouwt aan Prisma om zorgverleners te helpen om mensen met dementia de warme en persoonlijke zorg te kunnen geven die ze verdienen.</p>
 
     <p>Een team van studenten en ondernemers startte Prisma in 2017 na een stage van een maand in een woonzorgcentrum. <a href="http://www.frederikvincx.com/project-prisma-helping-people-with-dementia/">Lees het achtergrondverhaal</a>.</p>
