@@ -1,3 +1,6 @@
+<section>
+  @include('partials.navigation-bottom')
+</section>
 
 <section id="partners">
   <div class="container">
