@@ -28,18 +28,20 @@ $level = count( get_post_ancestors( $post->ID ) ) + 1;
 
     @if($level == 1)
         <div class="col-4">
-            @foreach($pages as $key => $page)
-                <a href="{{ get_permalink($page->ID) }}">
-                    <div class="col-md-6 mb-5">
-                        <div class="card" style="width: 18rem;">
-                            <div class="card-body">
-                                <h5 class="card-title mt-0">{{ $page->post_title }}</h5>
-                                <p class="card-text">{{ $page->post_excerpt }}</p>
-                            </div>
+            <div class="row">
+                @foreach($pages as $key => $page)
+                        <div class="col-12 mb-5 no-decoration">
+                                <div class="card" style="width: 18rem;">
+                                    <div class="card-body">
+                                        <a href="{{ get_permalink($page->ID) }}">
+                                            <h5 class="card-title mt-0">{{ $page->post_title }}</h5>
+                                        </a>
+                                        <p class="card-text">{{ $page->post_excerpt }}</p>
+                                    </div>
+                                </div>
                         </div>
-                    </div>
-                </a>
-            @endforeach
+                @endforeach
+            </div>
         </div>
     @endif
 
