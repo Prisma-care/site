@@ -7,11 +7,7 @@
   <div class="wrap" role="document">
     <main class="main container">
       <div class="row justify-content-md-center">
-        <div class="col-lg-10 col-xl-8">
-
-          @yield('content')
-
-        </div>
+        @yield('content')
       </div>
     </main>
   </div>
