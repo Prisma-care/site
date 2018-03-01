@@ -21,13 +21,13 @@ $level = count( get_post_ancestors( $post->ID ) ) + 1;
 @section('content')
     @while(have_posts()) @php(the_post())
 
-    <div class="col-8">
+    <div class="col-md-8 col-sm-12">
         <h1>{{ the_title() }}</h1>
         @include('partials.content-page')
     </div>
 
     @if($level == 1)
-        <div class="col-4">
+        <div class="col-md-4 col-sm-12">
             <div class="row">
                 @foreach($pages as $key => $page)
                         <div class="col-12 mb-5 no-decoration">
