@@ -33,7 +33,7 @@ $level = count( get_post_ancestors( $post->ID ) ) + 1;
                     <div class="col-md-6 mb-5">
                         <div class="card" style="width: 18rem;">
                             <div class="card-body">
-                                <h5 class="card-title">{{ $page->post_title }}</h5>
+                                <h5 class="card-title mt-0">{{ $page->post_title }}</h5>
                                 <p class="card-text">{{ $page->post_excerpt }}</p>
                             </div>
                         </div>
