@@ -29,17 +29,6 @@
 
 <div class="container">
   <section id="tour">
-
-    <div class="row">
-      <div class="col-md-6 col-lg-7">
-        <img src="@asset('images/tour2.jpg')" alt="Bewaar jullie herinneringen in een digitaal fotoalbum" class="img-fluid">
-      </div>
-      <div class="col-md-6 col-lg-5">
-        <h3>Bewaar herinneringen in een digitaal fotoalbum</h3>
-        <p>In de Prisma app heb je als familie een cruciale rol als verhaalverteller. Sla met je smartphone en tablet familie foto's veilig op in een privé archief.</p>
-      </div>
-    </div>
-
     <div class="row">
       <div class="col-md-6 col-lg-5">
         <h3>Laat je inspireren door verhalen van vroeger en nu</h3>
@@ -53,6 +42,16 @@
       </div>
       <div class="col-md-6 col-lg-7">
         <img src="@asset('images/tour4.jpg')" alt="Laat je inspireren door verhalen van vroeger en nu" class="img-fluid">
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-6 col-lg-7">
+        <img src="@asset('images/tour2.jpg')" alt="Bewaar jullie herinneringen in een digitaal fotoalbum" class="img-fluid">
+      </div>
+      <div class="col-md-6 col-lg-5">
+        <h3>Bewaar herinneringen in een digitaal fotoalbum</h3>
+        <p>In de Prisma app heb je als familie een cruciale rol als verhaalverteller. Sla met je smartphone en tablet familie foto's veilig op in een privé archief.</p>
       </div>
     </div>
 
