@@ -47,7 +47,7 @@
 
     <div class="row">
       <div class="col-md-6 col-lg-7">
-        <img src="@asset('images/tour2.jpg')" alt="Bewaar jullie herinneringen in een digitaal fotoalbum" class="img-fluid">
+        <img src="@asset('images/tour-hulahoop.jpg')" alt="Bewaar jullie herinneringen in een digitaal fotoalbum" class="img-fluid">
       </div>
       <div class="col-md-6 col-lg-5">
         <h3>Bewaar herinneringen in een digitaal fotoalbum</h3>
