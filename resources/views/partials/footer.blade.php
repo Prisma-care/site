@@ -12,6 +12,7 @@
       <li class="list-inline-item"><a href="http://huis-van-alijn.be/"><img src="@asset('images/logo-alijn.png')" alt="Het Huis van Alijn" class="img-fluid"></a></li>
       <li class="list-inline-item"><a href="http://www.bieterf.be/"><img src="@asset('images/logo-terf.png')" alt="TERF" class="img-fluid"></a></li>
       <li class="list-inline-item"><a href="http://www.vgc.be/"><img src="@asset('images/logo-vgc.png')" alt="Vlaamse Gemeenschapcommissie" class="img-fluid"></a></li>
+      <li class="list-inline-item"><a href="http://startit.be/"><img src="@asset('images/logo-startit.png')" alt="Start It KBC" class="img-fluid"></a></li>
     </ul>
 
   </div>

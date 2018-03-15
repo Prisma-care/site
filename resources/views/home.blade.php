@@ -9,18 +9,18 @@
 
       <div class="col-lg-10 col-xl-8 text-center">
 
-        <p class="lead">Prisma helpt mensen met dementie, hun geliefden en verzorgers om een goeie babbel te hebben.</p>
+        <h1 class="h2">Prisma helpt mensen in woonzorgcentra om een goeie babbel te hebben.</h1>
 
         <br>
 
         <div class="embed-responsive embed-responsive-16by9">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/Xka4MPtLjoU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
         </div>
+        
+        <h3>Beleef samen het kleurrijke verleden</h3>
+        <p><a href="/aan-de-slag/">Prisma TV</a> is volledig gratis en beschikbaar voor alle toestellen.</p>
+        <img src="@asset('images/devices.svg')" alt="Beschikbaar op gsm, tablet en computer" class="img-fluid">
 
-        <br>
-
-        <a class="btn btn-primary btn-lg font-weight-bold mb-3" href="#" role="button">Aan de slag</a>
-        <p class="small"><a href="#">Prisma TV</a> is volledig gratis en beschikbaar voor alle toestellen.</p>
       </div>
 
     </div>
@@ -48,23 +48,34 @@
       </div>
     </div>
 
-  </section>
+    <div class="row">
+      <div class="col-md-6 col-lg-5">
+        <img src="@asset('images/tour5.jpg')" alt="Herbelef het verleden met jouw familie of in jouw woonzorgentrum" class="img-fluid">
+      </div>
 
-</div>
+      <div class="col-md-6 col-lg-7">
+        <h3>Voor jouw familie of woonzorgcentrum</h3>
+        <p>Babbel samen over mooie fragmenten van de tijd van toen en geniet van de leuke herinneringen die naar boven komen.</p>
+        <a class="btn btn-primary" href="/aan-de-slag/" role="button">Probeer het uit</a>
+      </div>
+    </section>
 
-<div class="container">
-  <section id="artikels">
-    @php $my_query = new WP_Query(['posts_per_page'=>1, 'post_status'=>'publish']); @endphp
-    @while ($my_query->have_posts())
+  </div>
+
+  <hr>
+
+  <div class="container">
+    <section id="artikels">
+      <br>
+
+      @php $my_query = new WP_Query(['posts_per_page'=>1, 'post_status'=>'publish']); @endphp
+      @while ($my_query->have_posts())
 
       @php $my_query->the_post(); @endphp
 
       <div class="row my-5">
-        <div class="col-md-4 col-sm-4">
-          <img src="{{ get_the_post_thumbnail_url() }}" alt="" class="img-fluid">
-        </div>
         <div class="col-md-8 col-sm-8">
-          <small class="text-uppercase mb-5">Artikel</small>
+          <small class="text-uppercase mb-5">Update</small>
           <h3 class="mt-0 mb-1">
             <a href="{{ get_permalink() }}">{{ the_title() }}</a>
           </h3>
@@ -73,9 +84,14 @@
             {{--<a href="{{ get_permalink() }}">Lees verder</a>--}}
           {{--</p>--}}
         </div>
-      </div>
-    @endwhile
-  </section>
-</div>
 
-@endsection
+        <div class="col-md-4 col-sm-4">
+          <img src="{{ get_the_post_thumbnail_url() }}" alt="" class="img-fluid">
+        </div>
+        
+      </div>
+      @endwhile
+    </section>
+  </div>
+
+  @endsection
