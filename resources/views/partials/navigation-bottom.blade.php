@@ -1,4 +1,4 @@
-<div class="banner">
+<div class="banner pt-5">
     <div class="text-center">
         <nav class="nav-primary d-flex justify-content-center">
             @if (has_nav_menu('bottom_navigation'))
