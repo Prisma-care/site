@@ -8,20 +8,15 @@
 
     <div class="col-10">
       <div id="team">
-        <p class="lead">Een team van vrijwilligers met een hart voor ouderenzorg bouwt aan Prisma om zorgverleners te
-          helpen om mensen met dementia de warme en persoonlijke zorg te kunnen geven die ze verdienen.</p>
+        <p class="lead">Een team van vrijwilligers met een hart voor ouderenzorg bouwt aan Prisma om zorgverleners te helpen om mensen met dementia de warme en persoonlijke zorg te kunnen geven die ze verdienen.</p>
 
-        <p>Een team van studenten en ondernemers startte Prisma in 2017 na een stage van een maand in een
-          woonzorgcentrum. <a href="http://www.frederikvincx.com/project-prisma-helping-people-with-dementia/">Lees het
-            achtergrondverhaal</a>.</p>
+        <p>Een team van studenten en ondernemers startte Prisma in 2017 na een stage van een maand in een woonzorgcentrum. <a href="http://www.frederikvincx.com/project-prisma-helping-people-with-dementia/">Lees het achtergrondverhaal</a>.</p>
 
-        <p>Met de financiële hulp van de Vlaamse Gemeenschapscommissie werken we de app nu verder uit in nauwe
-          samenwerking met woonzorgcentra. Daarbij hebben we de steun van <a href="http://www.dementie.be/">Expertisecentrum
-            Dementie</a> en <a href="http://dementielab.be/">Dementie Lab</a>.</p>
+        <p>Met de <a href="/updates/kabinet-debaets-steunt-de-verdere-uitwerking-van-prisma/">financiële hulp van Kabinet Debaets en de Vlaamse Gemeenschapscommissie</a> werken we Prisma verder uit in nauwe samenwerking met woonzorgcentra. <a href="http://www.dementie.be/">Expertisecentrum Dementie</a> en <a href="http://dementielab.be/">Dementie Lab</a>ondersteunen ons hierbij.</p>
 
-        <p>Sociaal ondernemer <a href="https://www.linkedin.com/in/frederikvincx/">Frederik Vincx</a> leidt het project.
-          Hij heeft een verleden als succesvol commercieel ontwerper en ondernemer, en hoopt nu een verschil te maken in
-          de ouderenzorg.</p>
+        <p>Sociaal ondernemer <a href="https://www.linkedin.com/in/frederikvincx/">Frederik Vincx</a> leidt het project. Hij heeft een verleden als succesvol commercieel ontwerper en ondernemer, en hoopt nu een verschil te maken in de ouderenzorg.</p>
+
+        <p>Het project kreeg al <a href="/prisma-in-de-media/">ruime aandacht in de media</a>.</p>
 
         <hr>
 

@@ -9,7 +9,7 @@
 
       <div class="col-lg-10 col-xl-8 text-center">
 
-        <h1 class="h2">Prisma helpt mensen in woonzorgcentra om een goeie babbel te hebben.</h1>
+        <h1 class="h2">Prisma helpt mensen in woonzorgcentra om een goeie babbel te hebben</h1>
 
         <br>
 
@@ -35,7 +35,7 @@
     <div class="row">
       <div class="col-md-6 col-lg-5">
         <h3>Laat je inspireren door verhalen van vroeger en nu</h3>
-        <p>Hoe was het dagelijkse leven 50 jaar geleden? Wat aten we? Welke grote momenten herinneren we ons nog? Prisma heeft een grote verzameling inspirerende verhalen.</p>
+        <p>Hoe was het dagelijkse leven 50 jaar geleden? Wat aten we? Welke grote momenten herinneren we ons nog? Prisma heeft een grote verzameling inspirerende verhalen in foto en video.</p>
 
         <ul class="list-inline">
           <li class="list-inline-item"><img src="@asset('images/logo-vrt-compact.png')" alt="VRT sandbox" class="img-fluid"></li>
@@ -43,7 +43,7 @@
         </ul>
 
       </div>
-      <div class="col-md-6 col-lg-7">
+      <div class="d-none d-sm-block col-md-6 col-lg-7">
         <img src="@asset('images/tour4.jpg')" alt="Laat je inspireren door verhalen van vroeger en nu" class="img-fluid">
       </div>
     </div>
@@ -88,7 +88,7 @@
         <div class="col-md-4 col-sm-4">
           <img src="{{ get_the_post_thumbnail_url() }}" alt="" class="img-fluid">
         </div>
-        
+
       </div>
       @endwhile
     </section>

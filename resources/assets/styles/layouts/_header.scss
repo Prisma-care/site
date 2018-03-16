@@ -1,7 +1,43 @@
-.banner .nav li {
-  @extend .nav-item;
+header.banner {
+  margin-bottom: 2em;
+
+  .menu-item a {
+    text-transform: uppercase;
+    font-size: 0.8em;
+  }
+
+  .current-menu-item a {
+    color: $gray-600;
+  }
 }
 
-.banner .nav a {
-  @extend .nav-link;
+.banner {
+  .nav li {
+    @extend .nav-item;
+  }
+
+  .nav a {
+    @extend .nav-link;
+  }
+
+  nav {
+    .menu-item a {
+      text-transform: uppercase;
+      font-size: 0.8em;
+    }
+
+    .current-menu-item a {
+      color: $gray-600;
+    }
+  }
+}
+
+.logo {
+  width: 270px;
+  margin-top: 1.25em;
+  margin-bottom: 1.75em;
+
+  @include media-breakpoint-only(xs) {
+    width: 140px;
+  }
 }

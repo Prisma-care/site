@@ -17,55 +17,18 @@ p {
   color: $gray;
 }
 
-header.banner {
-  margin-bottom: 4em;
+#intro {
+  margin-bottom: 4.5em;
 
-  h2 {
-    font-size: 1.5em;
-    margin-top: 0.5em;
+  h1.h2 {
+    margin: 1em 0 1.5em;
+    font-size: 2em;
     color: $gray;
 
     @include media-breakpoint-only(xs) {
-      font-size: 1em;
+      font-size: 1.25em;
     }
   }
-
-  .menu-item a {
-    text-transform: uppercase;
-    font-size: 0.8em;
-  }
-
-  .current-menu-item a {
-    color: $gray-600;
-  }
-}
-
-.banner {
-  nav {
-    .menu-item a {
-      text-transform: uppercase;
-      font-size: 0.8em;
-    }
-
-    .current-menu-item a {
-      color: $gray-600;
-    }
-  }
-}
-
-.logo {
-  width: 270px;
-  margin-top: 1.25em;
-  margin-bottom: 0;
-
-  @include media-breakpoint-only(xs) {
-    width: 140px;
-  }
-}
-
-#intro {
-  margin-bottom: 4.5em;
-  margin-top: 3.5em;
 
   .header-img {
     margin-bottom: 2.5em;
@@ -74,15 +37,11 @@ header.banner {
   p.lead {
     margin: 1em 0;
   }
-
-  h2 {
-    color: $gray;
-  }
 }
 
 #tour {
   .row {
-    margin-bottom: 4.5em;
+    margin-bottom: 2.5em;
   }
 
   .list-inline-item img {
