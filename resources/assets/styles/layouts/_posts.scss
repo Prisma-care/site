@@ -3,6 +3,10 @@
   padding: 1em 0 2em;
   border-bottom: 1px solid $gray-200;
 
+  .newslist__title {
+    margin-top: 0;
+  }
+
   &:last-child {
     border-bottom: none;
   }
