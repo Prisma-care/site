@@ -18,7 +18,7 @@
         </div>
         
         <h3>Beleef samen het kleurrijke verleden</h3>
-        <p><a href="/aan-de-slag/">Prisma TV</a> is volledig gratis en beschikbaar voor alle toestellen.</p>
+        <p><a href="/aan-de-slag-met-prisma/">Prisma TV</a> is volledig gratis en beschikbaar voor alle toestellen.</p>
         <img src="@asset('images/devices.svg')" alt="Beschikbaar op gsm, tablet en computer" class="img-fluid">
 
       </div>
@@ -56,7 +56,7 @@
       <div class="col-md-6 col-lg-7">
         <h3>Voor jouw familie of woonzorgcentrum</h3>
         <p>Babbel samen over mooie fragmenten van de tijd van toen en geniet van de leuke herinneringen die naar boven komen.</p>
-        <a class="btn btn-primary" href="/aan-de-slag/" role="button">Probeer het uit</a>
+        <a class="btn btn-primary" href="/aan-de-slag-met-prisma/" role="button">Probeer het uit</a>
       </div>
     </section>
 
