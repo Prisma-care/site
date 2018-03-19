@@ -8,9 +8,9 @@
 
     <div class="col-10">
       <div id="team">
-        <p class="lead">Een team van vrijwilligers met een hart voor ouderenzorg bouwt aan Prisma om zorgverleners te helpen om mensen met dementia de warme en persoonlijke zorg te kunnen geven die ze verdienen.</p>
+        <p class="lead">Een team van vrijwilligers met een hart voor ouderenzorg bouwt aan Prisma om zorgverleners te helpen om mensen in woonzorgcentra de warme en persoonlijke zorg te kunnen geven die ze verdienen.</p>
 
-        <p>Een team van studenten en ondernemers startte Prisma in 2017 na een stage van een maand in een woonzorgcentrum. <a href="http://www.frederikvincx.com/project-prisma-helping-people-with-dementia/">Lees het achtergrondverhaal</a>.</p>
+        <p>Een team van studenten en ondernemers startte Prisma in 2017 na een stage van een maand in een woonzorgcentrum in Zonhoven. <a href="http://www.frederikvincx.com/project-prisma-helping-people-with-dementia/">Lees het achtergrondverhaal</a>.</p>
 
         <p>Met de <a href="/updates/kabinet-debaets-steunt-de-verdere-uitwerking-van-prisma/">financiële hulp van Kabinet Debaets en de Vlaamse Gemeenschapscommissie</a> werken we Prisma verder uit in nauwe samenwerking met woonzorgcentra. <a href="http://www.dementie.be/">Expertisecentrum Dementie</a> en <a href="http://dementielab.be/">Dementie Lab</a>ondersteunen ons hierbij.</p>
 
