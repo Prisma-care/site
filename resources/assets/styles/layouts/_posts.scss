@@ -12,6 +12,38 @@
   }
 }
 
+article h1.entry-title {
+  color: $gray-700;
+}
+
+article header .aside p {
+  margin-top: 2em;
+
+  a {
+    border: 1px solid $gray-200;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  article header .aside {
+    position: fixed;
+    width: 33vw;
+    right: -20px;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  article header .aside {
+    width: 38vw;
+  }
+}
+
+@include media-breakpoint-down(md) {
+  article header .aside a {
+    display: none;
+  }
+}
+
 time {
   display: block;
   margin-bottom: 1.5em;
