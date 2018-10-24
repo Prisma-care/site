@@ -87,7 +87,7 @@
               <div class="card-body">
                 <img src="@asset('images/avatar-github.png')" alt="Github" class="rounded-circle">
                 <h4 class="card-title">Jij?</h4>
-                <p class="card-text">Bouw mee aan Prisma via <a href="https://github.com/prisma">Github</a></p>
+                <p class="card-text">Bouw mee aan Prisma via <a href="https://github.com/Prisma-care">Github</a></p>
               </div>
             </div>
           </div>
